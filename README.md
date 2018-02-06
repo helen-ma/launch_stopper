@@ -29,4 +29,4 @@ In terminal run
 launchctl unload -w /Library/LaunchAgents/com.adobe.AdobeCreativeCloud.plist
 ```
 
-
+Now the auto launch is disabled for your user.
