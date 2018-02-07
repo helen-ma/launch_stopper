@@ -3,9 +3,6 @@
 # by Helen Ma
 # Github: https://github.com/helen-ma
 
-#Native apple agents/jobs/apps
-SYS_AGENT_DIR="/System/Library/LaunchAgents"
-
 #Proprietary software agents/jobs/apps
 USR_AGENT_DIR="/Library/LaunchAgents"
 
