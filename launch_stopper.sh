@@ -1,5 +1,5 @@
 #!/bin/bash
-# disables application's auto launch at computer startup
+# Disables auto launching of Avid and Adobe background app managers at startup
 # by Helen Ma
 # Github: https://github.com/helen-ma
 
