@@ -1,5 +1,7 @@
 #!/bin/bash
 # disables application's auto launch at computer startup
+# by Helen Ma
+# Github: https://github.com/helen-ma
 
 #Native apple agents/jobs/apps
 SYS_AGENT_DIR="/System/Library/LaunchAgents"
